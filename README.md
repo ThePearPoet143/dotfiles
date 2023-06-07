@@ -16,6 +16,9 @@ git clone https://github.com/ThePearPoet143/dotfiles.git
 
 ln -s ~/.dotfiles/.zshrc ~/.zshrc
 ln -s ~/.dotfiles/.gitconfig ~/gitconfig
+ln -s ~/,dotfiles/.oh-my-zsh ~/.oh-my-zsh
+ln -s ~/.dotfiles/.powerlevel10k ~/.powerlevel10k
+
 
 4. Install homebrew
 
